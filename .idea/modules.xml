@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GeneralQuestions/GeneralQuestions.iml" filepath="$PROJECT_DIR$/GeneralQuestions/GeneralQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/big-data-sci.iml" filepath="$PROJECT_DIR$/.idea/big-data-sci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructures/datastructures.iml" filepath="$PROJECT_DIR$/datastructures/datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionalProgramming/functionalProgramming.iml" filepath="$PROJECT_DIR$/functionalProgramming/functionalProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro-pandas/intro-pandas.iml" filepath="$PROJECT_DIR$/intro-pandas/intro-pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopPython/oopPython.iml" filepath="$PROJECT_DIR$/oopPython/oopPython.iml" />
     </modules>
   </component>
 </project>
